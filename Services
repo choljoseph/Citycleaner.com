@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="City Cleaners South Sudan services — house cleaning, commercial cleaning, carpet, window, upholstery and move-in/out cleaning in Juba."/>
+  <title>Services — City Cleaners South Sudan</title>
+  <link rel="stylesheet" href="../css/style.css"/>
+</head>
+<body>
+
+<a href="https://wa.me/211924000000" target="_blank" class="wa-float" aria-label="WhatsApp">💬<span class="wa-float-tooltip">Chat on WhatsApp</span></a>
+
+<nav class="nav">
+  <a href="../index.html" class="nav-logo-wrap">
+    <div class="nav-logo-icon">🏠</div>
+    <div class="nav-logo-text">
+      <div class="nav-logo-name">CITY CLEANERS</div>
+      <div class="nav-logo-sub">South Sudan</div>
+    </div>
+  </a>
+  <button class="nav-burger" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="../index.html" class="nav-link">Home</a></li>
+    <li><a href="services.html" class="nav-link active">Services</a></li>
+    <li><a href="about.html" class="nav-link">About</a></li>
+    <li><a href="contact.html" class="nav-link">Contact</a></li>
+  </ul>
+  <div class="nav-phone"><span>📞</span> +211 924 000 000</div>
+</nav>
+
+<!-- Hero -->
+<section class="services-page-hero">
+  <p class="eyebrow white">Professional Cleaning</p>
+  <h1 class="section-title white" style="font-size: clamp(3rem, 6vw, 5.5rem);">OUR <span>SERVICES</span></h1>
+  <p class="section-sub light" style="margin-top:.75rem;">Six specialist cleaning services covering every need — residential, commercial and specialist — across Juba, South Sudan.</p>
+</section>
+
+<!-- Services Detail -->
+<section class="section section-white">
+
+  <!-- 1. House Cleaning -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:4rem;padding:3.5rem 0;border-bottom:1px solid var(--border);" class="fade-up">
+    <div>
+      <div style="font-size:3rem;margin-bottom:1.25rem;">🏠</div>
+      <h2 style="font-family:var(--font-display);font-size:1.8rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.75rem;">GENERAL HOUSE CLEANING</h2>
+      <p style="font-size:.9rem;color:var(--text-mid);line-height:1.8;">From a quick tidy to a deep clean, our residential cleaning service is tailored to your home and schedule.</p>
+      <a href="contact.html" class="btn btn-primary" style="margin-top:1.5rem;">Book Now <span class="arr">→</span></a>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Kitchen Deep Clean</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Counters, appliances, cupboards, sinks and floors — everything degreased and sanitised.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Bathroom Sanitisation</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Toilets, showers, baths, tiles and mirrors — fully disinfected and gleaming.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Bedrooms & Living Areas</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Dust, vacuum, mop and polish — every room refreshed from ceiling to floor.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Regular Maintenance Plans</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Weekly or biweekly plans with a consistent team you know and trust.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. Office & Commercial -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:4rem;padding:3.5rem 0;border-bottom:1px solid var(--border);" class="fade-up">
+    <div>
+      <div style="font-size:3rem;margin-bottom:1.25rem;">🏢</div>
+      <h2 style="font-family:var(--font-display);font-size:1.8rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.75rem;">OFFICE & COMMERCIAL CLEANING</h2>
+      <p style="font-size:.9rem;color:var(--text-mid);line-height:1.8;">A clean, hygienic workplace improves productivity and makes a powerful impression on clients and staff alike.</p>
+      <a href="contact.html" class="btn btn-primary" style="margin-top:1.5rem;">Get a Quote <span class="arr">→</span></a>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Office Block Cleaning</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Workstations, meeting rooms, kitchens, washrooms and lobbies — fully maintained.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">NGO & Embassy Cleaning</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Trusted, security-cleared teams for sensitive premises and international organisations.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Restaurants & Cafes</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Food-safe hygiene standards. Kitchen, dining area and washroom deep cleaning.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">After-Hours Service</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">We work around your business hours — evenings and weekends available.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Carpet -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:4rem;padding:3.5rem 0;border-bottom:1px solid var(--border);" class="fade-up">
+    <div>
+      <div style="font-size:3rem;margin-bottom:1.25rem;">🧺</div>
+      <h2 style="font-family:var(--font-display);font-size:1.8rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.75rem;">CARPET CLEANING</h2>
+      <p style="font-size:.9rem;color:var(--text-mid);line-height:1.8;">Professional steam and dry carpet cleaning that removes deep-set dirt, stains and allergens from all carpet types.</p>
+      <a href="contact.html" class="btn btn-primary" style="margin-top:1.5rem;">Book Now <span class="arr">→</span></a>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Steam Cleaning</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Hot water extraction kills bacteria and removes deeply embedded dirt from all pile types.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Stain & Odour Treatment</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Specialist treatments for pet stains, food spills, mould and persistent odours.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Wool-Safe Methods</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Gentle yet effective products that clean without damaging delicate natural fibres.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">On-Site or Collection</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">We clean at your premises or collect and return your rugs — your choice.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Window -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:4rem;padding:3.5rem 0;border-bottom:1px solid var(--border);" class="fade-up">
+    <div>
+      <div style="font-size:3rem;margin-bottom:1.25rem;">🪟</div>
+      <h2 style="font-family:var(--font-display);font-size:1.8rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.75rem;">WINDOW CLEANING</h2>
+      <p style="font-size:.9rem;color:var(--text-mid);line-height:1.8;">Crystal-clear, streak-free windows that let the light in. Safe, professional cleaning for homes and multi-storey buildings.</p>
+      <a href="contact.html" class="btn btn-primary" style="margin-top:1.5rem;">Book Now <span class="arr">→</span></a>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Interior & Exterior</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Both sides cleaned for a complete, streak-free result that lasts.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Multi-Storey Buildings</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Safe equipment and experienced team for office blocks and apartment complexes.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Frames & Sills</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Window frames, sills and tracks cleaned and wiped down as standard.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Streak-Free Guarantee</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">If you spot any streaks after we leave, we return and re-clean at no charge.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. Upholstery -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:4rem;padding:3.5rem 0;border-bottom:1px solid var(--border);" class="fade-up">
+    <div>
+      <div style="font-size:3rem;margin-bottom:1.25rem;">🛋️</div>
+      <h2 style="font-family:var(--font-display);font-size:1.8rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.75rem;">UPHOLSTERY CLEANING</h2>
+      <p style="font-size:.9rem;color:var(--text-mid);line-height:1.8;">Restore your sofas, chairs and fabric furniture to looking and smelling like new. Safe products for all fabric types.</p>
+      <a href="contact.html" class="btn btn-primary" style="margin-top:1.5rem;">Book Now <span class="arr">→</span></a>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Sofa & Chair Cleaning</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Deep extraction cleaning for fabric sofas, armchairs and dining chair cushions.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Stain Removal</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Specialist treatment for food, drink, pet and ink stains on all fabric types.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Odour Treatment</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Neutralise unpleasant odours trapped deep in fabric fibres — leaves a fresh, clean scent.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Safe for All Fabrics</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Velvet, linen, cotton, microfibre — we use the right method for every material.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Move-in/out -->
+  <div style="display:grid;grid-template-columns:1fr 2fr;gap:4rem;padding:3.5rem 0;" class="fade-up">
+    <div>
+      <div style="font-size:3rem;margin-bottom:1.25rem;">📦</div>
+      <h2 style="font-family:var(--font-display);font-size:1.8rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.75rem;">MOVE-IN / MOVE-OUT CLEANING</h2>
+      <p style="font-size:.9rem;color:var(--text-mid);line-height:1.8;">Leaving or arriving? We provide a comprehensive clean that ensures you get your deposit back or move into a spotless home.</p>
+      <a href="contact.html" class="btn btn-primary" style="margin-top:1.5rem;">Book Now <span class="arr">→</span></a>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Top-to-Bottom Deep Clean</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Every room, every surface — ceilings, walls, floors and all fixtures thoroughly cleaned.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Appliance Cleaning</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Oven, fridge, washing machine and other appliances cleaned inside and out.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">Skirting & Light Fittings</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Detail cleaning of all the areas that landlords check — skirting boards, switches and fittings.</div>
+      </div>
+      <div class="sb-item" style="background:var(--offwhite);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:var(--radius-lg);padding:1.5rem;">
+        <div style="font-family:var(--font-display);font-size:1rem;letter-spacing:.04em;color:var(--navy-deep);margin-bottom:.35rem;">7 Days a Week</div>
+        <div style="font-size:.83rem;color:var(--text-mid);line-height:1.65;">Moving is stressful enough — we're available every day to fit your schedule.</div>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<!-- CTA -->
+<div class="booking-cta">
+  <div class="fade-up">
+    <h2 class="booking-cta-title">Need a <span>Cleaning Quote?</span></h2>
+    <p class="booking-cta-sub">Contact us today for a free, no-obligation quote. Available 7 days a week across Juba.</p>
+  </div>
+  <div class="booking-btns fade-up">
+    <a href="contact.html" class="btn btn-white">Get a Free Quote <span class="arr">→</span></a>
+    <a href="https://wa.me/211924000000" target="_blank" class="btn-whatsapp"><span class="wa-icon">💬</span> WhatsApp Now</a>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-main">
+    <div>
+      <div class="footer-brand-name">CITY CLEANERS</div>
+      <div class="footer-brand-sub">South Sudan</div>
+      <p class="footer-desc">South Sudan's trusted professional cleaning company, serving Juba with quality, reliability and care.</p>
+      <div class="footer-contact-line"><span>📞</span> +211 924 000 000</div>
+      <div class="footer-contact-line"><span>📍</span> Juba, South Sudan</div>
+    </div>
+    <div>
+      <div class="footer-heading">SERVICES</div>
+      <ul class="footer-links">
+        <li><a href="services.html">General House Cleaning</a></li>
+        <li><a href="services.html">Office & Commercial</a></li>
+        <li><a href="services.html">Carpet Cleaning</a></li>
+        <li><a href="services.html">Window Cleaning</a></li>
+        <li><a href="services.html">Upholstery Cleaning</a></li>
+        <li><a href="services.html">Move-In / Move-Out</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer-heading">COMPANY</div>
+      <ul class="footer-links">
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.html">Book a Clean</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer-heading">HOURS</div>
+      <p style="font-size:.83rem;color:rgba(255,255,255,.42);line-height:1.8;">Mon – Sat: 7:00 AM – 7:00 PM<br>Sunday: 8:00 AM – 4:00 PM</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2025 City Cleaners South Sudan. All rights reserved.</div>
+    <div class="footer-bottom-links"><a href="contact.html">Contact</a><a href="#">Privacy</a></div>
+  </div>
+</footer>
+
+<script src="../js/main.js"></script>
+</body>
+</html>
