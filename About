@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Us — City Cleaners South Sudan</title>
+  <link rel="stylesheet" href="../css/style.css"/>
+</head>
+<body>
+
+<a href="https://wa.me/211924000000" target="_blank" class="wa-float" aria-label="WhatsApp">💬<span class="wa-float-tooltip">Chat on WhatsApp</span></a>
+
+<nav class="nav">
+  <a href="../index.html" class="nav-logo-wrap">
+    <div class="nav-logo-icon">🏠</div>
+    <div class="nav-logo-text">
+      <div class="nav-logo-name">CITY CLEANERS</div>
+      <div class="nav-logo-sub">South Sudan</div>
+    </div>
+  </a>
+  <button class="nav-burger" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links">
+    <li><a href="../index.html" class="nav-link">Home</a></li>
+    <li><a href="services.html" class="nav-link">Services</a></li>
+    <li><a href="about.html" class="nav-link active">About</a></li>
+    <li><a href="contact.html" class="nav-link">Contact</a></li>
+  </ul>
+  <div class="nav-phone"><span>📞</span> +211 924 000 000</div>
+</nav>
+
+<!-- Hero -->
+<section class="services-page-hero">
+  <p class="eyebrow white">Our Story</p>
+  <h1 class="section-title white" style="font-size: clamp(3rem, 6vw, 5.5rem);">ABOUT <span>CITY CLEANERS</span></h1>
+  <p class="section-sub light" style="margin-top:.75rem;">South Sudan's professional cleaning company — built on trust, reliability and a passion for spotless results.</p>
+</section>
+
+<!-- Who We Are -->
+<section class="section section-white">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:5rem;align-items:start;">
+    <div class="fade-up">
+      <p class="eyebrow">Who We Are</p>
+      <h2 class="section-title" style="font-size:clamp(2rem,3.5vw,3rem);margin-bottom:1.5rem;">Juba's Most <span>Trusted Cleaners</span></h2>
+      <p style="font-size:1rem;color:var(--text-mid);line-height:1.85;margin-bottom:1.25rem;">City Cleaners South Sudan was founded in Juba with one simple mission: to give homes and businesses in South Sudan access to professional, reliable, and affordable cleaning services.</p>
+      <p style="font-size:1rem;color:var(--text-mid);line-height:1.85;margin-bottom:1.25rem;">We recognised that South Sudan lacked a cleaning company that combined the professionalism of international standards with an understanding of the local environment. So we built one.</p>
+      <p style="font-size:1rem;color:var(--text-mid);line-height:1.85;">Today we serve hundreds of homes, offices, NGOs and businesses across Juba — and we're growing every day. Our team is local, trained and deeply committed to delivering results that exceed your expectations.</p>
+    </div>
+    <div class="fade-up" style="display:flex;flex-direction:column;gap:1.25rem;">
+      <div style="background:var(--offwhite);border:1px solid var(--border);border-left:4px solid var(--accent);border-radius:var(--radius-lg);padding:1.75rem;">
+        <div style="font-size:.68rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:.5rem;">Our Mission</div>
+        <div style="font-size:.95rem;color:var(--text-mid);line-height:1.75;">To provide South Sudan's homes and businesses with professional, affordable and reliable cleaning services — leaving every space healthier and more welcoming.</div>
+      </div>
+      <div style="background:var(--offwhite);border:1px solid var(--border);border-left:4px solid var(--navy);border-radius:var(--radius-lg);padding:1.75rem;">
+        <div style="font-size:.68rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--navy);margin-bottom:.5rem;">Our Vision</div>
+        <div style="font-size:.95rem;color:var(--text-mid);line-height:1.75;">To become South Sudan's number one cleaning brand — known for exceptional quality, trusted staff and a genuine commitment to our clients and community.</div>
+      </div>
+      <div style="background:var(--navy-deep);border-radius:var(--radius-lg);padding:1.75rem;">
+        <div style="font-size:.68rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--accent-light);margin-bottom:.5rem;">Our Promise</div>
+        <div style="font-size:.95rem;color:rgba(255,255,255,.65);line-height:1.75;">Clean Spaces, Healthier Places — That's the City Cleaners Promise. Every job, every time, guaranteed.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Values -->
+<section class="why-section section">
+  <p class="eyebrow white fade-up">What Drives Us</p>
+  <h2 class="section-title white fade-up">Our <span>Core Values</span></h2>
+  <div class="why-grid" style="grid-template-columns:repeat(3,1fr);">
+    <div class="why-card fade-up">
+      <span class="why-card-icon">🤝</span>
+      <div class="why-card-title">INTEGRITY</div>
+      <div class="why-card-text">We do what we say and say what we do. Honest pricing, honest timekeeping, honest results.</div>
+    </div>
+    <div class="why-card fade-up">
+      <span class="why-card-icon">⭐</span>
+      <div class="why-card-title">EXCELLENCE</div>
+      <div class="why-card-text">We never cut corners. Every clean is done to the highest possible standard, no matter the size of the job.</div>
+    </div>
+    <div class="why-card fade-up">
+      <span class="why-card-icon">🌍</span>
+      <div class="why-card-title">COMMUNITY</div>
+      <div class="why-card-text">We're a South Sudanese business, employing South Sudanese people and investing in our community.</div>
+    </div>
+    <div class="why-card fade-up">
+      <span class="why-card-icon">🛡️</span>
+      <div class="why-card-title">TRUST</div>
+      <div class="why-card-text">We earn the right to be in your home or workplace. All staff are vetted, trained and uniformed.</div>
+    </div>
+    <div class="why-card fade-up">
+      <span class="why-card-icon">♻️</span>
+      <div class="why-card-title">RESPONSIBILITY</div>
+      <div class="why-card-text">Eco-safe products that protect your family and the environment without compromising on results.</div>
+    </div>
+    <div class="why-card fade-up">
+      <span class="why-card-icon">😊</span>
+      <div class="why-card-title">CARE</div>
+      <div class="why-card-text">We genuinely care about every client's satisfaction. That's not a slogan — it's how we operate every single day.</div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats -->
+<div class="stats-band">
+  <div class="stat-item fade-up">
+    <div class="stat-num"><span data-count="500" data-suffix="+">0+</span></div>
+    <div class="stat-label">Homes Cleaned</div>
+  </div>
+  <div class="stat-item fade-up">
+    <div class="stat-num"><span data-count="120" data-suffix="+">0+</span></div>
+    <div class="stat-label">Business Clients</div>
+  </div>
+  <div class="stat-item fade-up">
+    <div class="stat-num"><span data-count="30" data-suffix="+">0+</span></div>
+    <div class="stat-label">Trained Staff</div>
+  </div>
+  <div class="stat-item fade-up">
+    <div class="stat-num"><span data-count="100" data-suffix="%">0%</span></div>
+    <div class="stat-label">Satisfaction Rate</div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="booking-cta">
+  <div class="fade-up">
+    <h2 class="booking-cta-title">Let's Keep <span>Juba Clean</span></h2>
+    <p class="booking-cta-sub">Book your first clean today and experience the City Cleaners difference.</p>
+  </div>
+  <div class="booking-btns fade-up">
+    <a href="contact.html" class="btn btn-white">Book a Clean <span class="arr">→</span></a>
+    <a href="https://wa.me/211924000000" target="_blank" class="btn-whatsapp"><span class="wa-icon">💬</span> WhatsApp Now</a>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-main">
+    <div>
+      <div class="footer-brand-name">CITY CLEANERS</div>
+      <div class="footer-brand-sub">South Sudan</div>
+      <p class="footer-desc">South Sudan's trusted professional cleaning company, serving Juba with quality, reliability and care.</p>
+      <div class="footer-contact-line"><span>📞</span> +211 924 000 000</div>
+      <div class="footer-contact-line"><span>📍</span> Juba, South Sudan</div>
+    </div>
+    <div>
+      <div class="footer-heading">SERVICES</div>
+      <ul class="footer-links">
+        <li><a href="services.html">House Cleaning</a></li>
+        <li><a href="services.html">Office & Commercial</a></li>
+        <li><a href="services.html">Carpet Cleaning</a></li>
+        <li><a href="services.html">Window Cleaning</a></li>
+        <li><a href="services.html">Upholstery Cleaning</a></li>
+        <li><a href="services.html">Move-In / Move-Out</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer-heading">COMPANY</div>
+      <ul class="footer-links">
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="contact.html">Book a Clean</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer-heading">HOURS</div>
+      <p style="font-size:.83rem;color:rgba(255,255,255,.42);line-height:1.8;">Mon – Sat: 7:00 AM – 7:00 PM<br>Sunday: 8:00 AM – 4:00 PM</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2025 City Cleaners South Sudan. All rights reserved.</div>
+    <div class="footer-bottom-links"><a href="contact.html">Contact</a></div>
+  </div>
+</footer>
+
+<script src="../js/main.js"></script>
+</body>
+</html>
